@@ -1,8 +1,7 @@
 [![Gervis's GitHub Banner](./assets/GitHubHeader.png)](https://gervisbermudez.com)
 
-[![Visits Badge](https://badges.pufler.dev/visits/gervisbermudez/gervisbermudez)](https://gervisbermudez.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/gervisbermudez)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gervisbermudez/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/gervisbermudez)
 
 Hey there 👋
@@ -21,33 +20,6 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.com
 - [Lightweight and powerful: CodeIgniter the php framework](https://gervisbermudez.com/blog/lightweight-and-powerful-codeigniter-the-php-framework)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
-
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/gervisbermudez/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gervisbermudez&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/gervisbermudez/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gervisbermudez&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/gervisbermudez/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gervisbermudez&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/gervisbermudez/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=gervisbermudez&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
 <br>
 
 ## &#x1f4c8; GitHub Stats
@@ -135,7 +107,3 @@ _Quote requested from [The Office API](https://www.officeapi.dev/)_
 Check back at the top of the hour for a new quote!
 
 <br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://gervisbermudez.com/blog/creating-a-killer-github-profile-readme-part-1/)!
