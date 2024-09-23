@@ -20,8 +20,6 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 <!-- BLOG-POST-LIST:END -->
 
 <br>
-### [All Blog Post](https://gervisbermudez.github.io/site/blog/)
-<br>
 
 ## &#x1f4c8; GitHub Stats
 
