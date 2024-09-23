@@ -12,7 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📝 Latest Blog Posts
 
-<br/>
+<br>
 <!-- BLOG-POST-LIST:START -->
 - [Solving the Hotel Reservation Problem using Vue.js with Vite](https://gervisbermudez.github.io/site/071i.html)
 - [Materialize CSS the little library for Material Design](https://gervisbermudez.github.io/site/blog/materialize-css-the-little-library-for-material-design)
@@ -58,6 +58,9 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
 <details>
+
+<br>
+  
 <summary>More Skills</summary>
 <br>
 
