@@ -12,8 +12,7 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📝 Latest Blog Posts
 
-<br>
-
+<br/>
 <!-- BLOG-POST-LIST:START -->
 - [Solving the Hotel Reservation Problem using Vue.js with Vite](https://gervisbermudez.github.io/site/071i.html)
 - [Materialize CSS the little library for Material Design](https://gervisbermudez.github.io/site/blog/materialize-css-the-little-library-for-material-design)
@@ -21,6 +20,8 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 - [Lightweight and powerful: CodeIgniter the php framework](https://gervisbermudez.github.io/site/blog/lightweight-and-powerful-codeigniter-the-php-framework)
 <!-- BLOG-POST-LIST:END -->
 
+<br>
+### [All Blog Post](https://gervisbermudez.github.io/site/blog/)
 <br>
 
 ## &#x1f4c8; GitHub Stats
