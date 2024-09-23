@@ -12,12 +12,11 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📝 Latest Blog Posts
 
-<br>
 <!-- BLOG-POST-LIST:START -->
-- [Solving the Hotel Reservation Problem using Vue.js with Vite](https://gervisbermudez.github.io/site/071i.html)
-- [Materialize CSS the little library for Material Design](https://gervisbermudez.github.io/site/blog/materialize-css-the-little-library-for-material-design)
-- [Meet Material Design, the Design System of Google](https://gervisbermudez.github.io/site/blog/meet-material-design)
-- [Lightweight and powerful: CodeIgniter the php framework](https://gervisbermudez.github.io/site/blog/lightweight-and-powerful-codeigniter-the-php-framework)
+- [Solving the Hotel Reservation Problem using Vue.js with Vite](https://gervisbermudez.github.io/site/071i.html) <br>
+- [Materialize CSS the little library for Material Design](https://gervisbermudez.github.io/site/blog/materialize-css-the-little-library-for-material-design) <br>
+- [Meet Material Design, the Design System of Google](https://gervisbermudez.github.io/site/blog/meet-material-design) <br>
+- [Lightweight and powerful: CodeIgniter the php framework](https://gervisbermudez.github.io/site/blog/lightweight-and-powerful-codeigniter-the-php-framework) <br>
 <!-- BLOG-POST-LIST:END -->
 
 <br>
