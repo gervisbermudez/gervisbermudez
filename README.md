@@ -8,17 +8,17 @@ Hey there 👋
 
 I’m Gervis, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://gervisbermudez.github.io/blog/)
+Want to know more about me? [Check out my portfolio.](https://gervisbermudez.github.io/site/)
 
 ## 📝 Latest Blog Posts
 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving the Hotel Reservation Problem using Vue.js with Vite]([https://gervisbermudez.github.io/site//blog/materialize-css-the-little-library-for-material-design](https://gervisbermudez.github.io/site/071i.html))
-- [Materialize CSS the little library for Material Design](https://gervisbermudez.github.io/site//blog/materialize-css-the-little-library-for-material-design)
-- [Meet Material Design, the Design System of Google](https://gervisbermudez.github.io/site//blog/meet-material-design)
-- [Lightweight and powerful: CodeIgniter the php framework](https://gervisbermudez.github.io/site//blog/lightweight-and-powerful-codeigniter-the-php-framework)
+- [Solving the Hotel Reservation Problem using Vue.js with Vite](https://gervisbermudez.github.io/site/071i.html)
+- [Materialize CSS the little library for Material Design](https://gervisbermudez.github.io/site/blog/materialize-css-the-little-library-for-material-design)
+- [Meet Material Design, the Design System of Google](https://gervisbermudez.github.io/site/blog/meet-material-design)
+- [Lightweight and powerful: CodeIgniter the php framework](https://gervisbermudez.github.io/site/blog/lightweight-and-powerful-codeigniter-the-php-framework)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
