@@ -101,7 +101,7 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 > I don't care what they say about me. I just want to be great.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
 _Quote from The Office. Check back at the top of the hour for a new one._
 
