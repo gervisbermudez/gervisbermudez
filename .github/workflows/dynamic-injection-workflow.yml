@@ -1,45 +1,48 @@
 name: Dynamic README injection
 on:
-  schedule: # Run workflow automatically
-    # This will make it run every hour
+  schedule:
     - cron: "0 * * * *"
-    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
+
+concurrency:
+  group: readme-update
+  cancel-in-progress: true
+
 jobs:
-  get-office-quotes:
+  update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
-      - name: Let the magic happen
-        uses: actions/setup-node@v1
+      - uses: actions/setup-node@v4
         with:
-          node-version: 14.6.0
+          node-version: 22
 
-      - run: yarn
+      - name: Inject Office quote
+        id: inject
+        run: node index.js
 
-      - run: node .
+      - name: Update README with latest blog posts
+        id: posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://gervisbermudez.github.io/site/feed.xml"
+          max_post_count: 4
+          skip_commit: true
+          enable_keepalive: false
+          retry_count: 3
 
-      - name: Add to git repo
+      - name: Commit and push
+        if: always() && steps.inject.outcome == 'success'
         run: |
-          git config pull.rebase false
-          git pull
-          git add .
-          git config --global user.name "Your Name"
-          git config --global user.email "Your E-Mail"
-          git commit -m "[Automated] README updated with new Office quote!"
-      - name: Push
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "[Automated] README updated with blog posts and Office quote"
+          git push
 
-  update-readme-with-blog:
-    needs: get-office-quotes
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          # Replace this URL with your rss feed URL/s
-          feed_list: "https://braydoncoyer.dev/rss/feed.xml"
+      - name: Fail if blog posts were not updated
+        if: always() && steps.posts.outcome == 'failure'
+        run: exit 1
