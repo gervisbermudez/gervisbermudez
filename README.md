@@ -13,10 +13,10 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving the Hotel Reservation Problem using Vue.js with Vite](https://gervisbermudez.github.io/site/071i.html) <br>
-- [Materialize CSS the little library for Material Design](https://gervisbermudez.github.io/site/blog/materialize-css-the-little-library-for-material-design) <br>
-- [Meet Material Design, the Design System of Google](https://gervisbermudez.github.io/site/blog/meet-material-design) <br>
-- [Lightweight and powerful: CodeIgniter the php framework](https://gervisbermudez.github.io/site/blog/lightweight-and-powerful-codeigniter-the-php-framework) <br>
+- [From API to UI: Building a SpaceX Launch Tracker with NextJs and Tailwind](https://gervisbermudez.github.io/site/blog/web%20development/2025/03/24/next-js-and-tailwind-building-a-dynamic-space-x-launch-tracker) <br>
+- [Solving the Hotel Reservation Problem using Vue js with Vite](https://gervisbermudez.github.io/site/blog/web%20development/2025/02/07/solving-the-hotel-reservation-problem-using-vue-js-with-vite) <br>
+- [Building a Custom CMS - From Figma to CodeIgniter with Materialize](https://gervisbermudez.github.io/site/blog/web%20development/2024/12/07/building-a-custom-cms-from-figma-to-code-igniter-with-materialize) <br>
+- [The Developer’s Superpower: AI + GitHub Copilot = Unstoppable Code](https://gervisbermudez.github.io/site/blog/technology/2024/10/07/the-developer-s-superpower-ai-git-hub-copilot-unstoppable-code) <br>
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -26,14 +26,14 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 <br>
 
 <a href="https://github.com/gervisbermudez">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gervisbermudez&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" alt="Gervis's most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gervisbermudez&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/gervisbermudez">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=gervisbermudez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" alt="Gervis's GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=gervisbermudez&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -58,9 +58,6 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
 <details>
-
-<br>
-  
 <summary>More Skills</summary>
 <br>
 
@@ -74,7 +71,6 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 ![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
 
 <br>
@@ -103,12 +99,10 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> I don't care what they say about me. I just want to be great.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
+_Quote from The Office. Check back at the top of the hour for a new one._
 
 <br>

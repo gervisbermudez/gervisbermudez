@@ -1,5 +1,9 @@
 {
-  "dependencies": {
-    "isomorphic-unfetch": "^3.1.0"
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "update-readme": "node index.js"
   }
 }
