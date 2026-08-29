@@ -99,9 +99,9 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> I just want to lie on the beach and eat hot dogs. That's all I've ever wanted.
+> I don't care what they say about me. I just want to be great.
 >
-> <p>- Kevin Malone</p>
+> <p>- Michael Scott</p>
 
 _Quote from The Office. Check back at the top of the hour for a new one._
 
