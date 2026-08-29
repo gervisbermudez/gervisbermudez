@@ -99,9 +99,9 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> I wish there was a way to know you're in the good old days before you've actually left them.
+> You miss 100% of the shots you don't take. — Wayne Gretzky
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 _Quote from The Office. Check back at the top of the hour for a new one._
 
