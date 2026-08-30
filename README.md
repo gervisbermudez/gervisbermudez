@@ -13,10 +13,10 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [From API to UI: Building a SpaceX Launch Tracker with NextJs and Tailwind](https://gervisbermudez.github.io/site/blog/web%20development/2025/03/24/next-js-and-tailwind-building-a-dynamic-space-x-launch-tracker) <br>
-- [Solving the Hotel Reservation Problem using Vue js with Vite](https://gervisbermudez.github.io/site/blog/web%20development/2025/02/07/solving-the-hotel-reservation-problem-using-vue-js-with-vite) <br>
-- [Building a Custom CMS - From Figma to CodeIgniter with Materialize](https://gervisbermudez.github.io/site/blog/web%20development/2024/12/07/building-a-custom-cms-from-figma-to-code-igniter-with-materialize) <br>
-- [The Developer’s Superpower: AI + GitHub Copilot = Unstoppable Code](https://gervisbermudez.github.io/site/blog/technology/2024/10/07/the-developer-s-superpower-ai-git-hub-copilot-unstoppable-code) <br>
+- [From API to UI: Building a SpaceX Launch Tracker with NextJs and Tailwind](https://gervisbermudez.github.io/site/blog/web%20development/2025/03/24/next-js-and-tailwind-building-a-dynamic-space-x-launch-tracker)
+- [Solving the Hotel Reservation Problem using Vue js with Vite](https://gervisbermudez.github.io/site/blog/web%20development/2025/02/07/solving-the-hotel-reservation-problem-using-vue-js-with-vite)
+- [Building a Custom CMS - From Figma to CodeIgniter with Materialize](https://gervisbermudez.github.io/site/blog/web%20development/2024/12/07/building-a-custom-cms-from-figma-to-code-igniter-with-materialize)
+- [The Developer’s Superpower: AI + GitHub Copilot = Unstoppable Code](https://gervisbermudez.github.io/site/blog/technology/2024/10/07/the-developer-s-superpower-ai-git-hub-copilot-unstoppable-code)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -99,9 +99,9 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> I don't care what they say about me. I just want to be great.
+> Identity theft is not a joke, Jim! Millions of families suffer every year!
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Quote from The Office. Check back at the top of the hour for a new one._
 
