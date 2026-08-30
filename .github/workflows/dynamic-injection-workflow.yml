@@ -20,10 +20,6 @@ jobs:
         with:
           node-version: 22
 
-      - name: Inject Office quote
-        id: inject
-        run: node index.js
-
       - name: Update README with latest blog posts
         id: posts
         uses: gautamkrishnar/blog-post-workflow@v1
@@ -34,12 +30,16 @@ jobs:
           enable_keepalive: false
           retry_count: 3
 
+      - name: Inject Office quote
+        id: inject
+        run: node index.js
+
       - name: Commit and push
         if: always() && steps.inject.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add .
           git diff --staged --quiet || git commit -m "[Automated] README updated with blog posts and Office quote"
           git push
 
