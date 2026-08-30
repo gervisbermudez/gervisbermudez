@@ -99,9 +99,9 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> The worst thing about prison was the dementors.
+> I wish there was a way to know you're in the good old days before you've actually left them.
 >
-> <p>- Prison Mike</p>
+> <p>- Andy Bernard</p>
 
 _Quote from The Office. Check back at the top of the hour for a new one._
 
