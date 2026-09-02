@@ -99,9 +99,9 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> Sometimes I'll start a sentence and I don't even know where it's going. I just hope I find it along the way.
+> Bears. Beets. Battlestar Galactica.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
 _Quote from The Office. Check back at the top of the hour for a new one._
 
