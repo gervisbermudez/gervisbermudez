@@ -99,7 +99,7 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> I don't care what they say about me. I just want to be great.
+> I am Beyoncé, always.
 >
 > <p>- Michael Scott</p>
 
