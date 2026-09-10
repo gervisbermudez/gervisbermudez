@@ -99,7 +99,7 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> Why are you the way that you are?
+> You miss 100% of the shots you don't take. — Wayne Gretzky
 >
 > <p>- Michael Scott</p>
 
