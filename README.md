@@ -99,7 +99,7 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> I am Beyoncé, always.
+> I. Declare. Bankruptcy!
 >
 > <p>- Michael Scott</p>
 
