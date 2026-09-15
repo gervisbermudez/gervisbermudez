@@ -99,9 +99,9 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> Identity theft is not a joke, Jim! Millions of families suffer every year!
+> The worst thing about prison was the dementors.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Prison Mike</p>
 
 _Quote from The Office. Check back at the top of the hour for a new one._
 
