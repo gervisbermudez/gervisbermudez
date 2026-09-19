@@ -99,7 +99,7 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> Why are you the way that you are?
+> Sometimes I'll start a sentence and I don't even know where it's going. I just hope I find it along the way.
 >
 > <p>- Michael Scott</p>
 
