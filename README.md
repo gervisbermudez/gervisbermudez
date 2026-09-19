@@ -99,7 +99,7 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> Sometimes I'll start a sentence and I don't even know where it's going. I just hope I find it along the way.
+> I don't care what they say about me. I just want to be great.
 >
 > <p>- Michael Scott</p>
 
