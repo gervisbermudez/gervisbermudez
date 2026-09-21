@@ -99,7 +99,7 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> I'm not superstitious, but I am a little stitious.
+> Why are you the way that you are?
 >
 > <p>- Michael Scott</p>
 
