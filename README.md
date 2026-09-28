@@ -99,9 +99,9 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> Bears. Beets. Battlestar Galactica.
+> I am Beyoncé, always.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote from The Office. Check back at the top of the hour for a new one._
 
