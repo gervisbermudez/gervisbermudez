@@ -99,9 +99,9 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> You miss 100% of the shots you don't take. — Wayne Gretzky
+> Bears. Beets. Battlestar Galactica.
 >
-> <p>- Michael Scott</p>
+> <p>- Jim Halpert</p>
 
 _Quote from The Office. Check back at the top of the hour for a new one._
 
