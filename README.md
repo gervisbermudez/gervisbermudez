@@ -99,9 +99,9 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> I just want to lie on the beach and eat hot dogs. That's all I've ever wanted.
+> Identity theft is not a joke, Jim! Millions of families suffer every year!
 >
-> <p>- Kevin Malone</p>
+> <p>- Dwight Schrute</p>
 
 _Quote from The Office. Check back at the top of the hour for a new one._
 
