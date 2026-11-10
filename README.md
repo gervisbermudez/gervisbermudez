@@ -99,7 +99,7 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> I am Beyoncé, always.
+> I'm not superstitious, but I am a little stitious.
 >
 > <p>- Michael Scott</p>
 
