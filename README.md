@@ -99,7 +99,7 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> Why are you the way that you are?
+> I don't care what they say about me. I just want to be great.
 >
 > <p>- Michael Scott</p>
 
