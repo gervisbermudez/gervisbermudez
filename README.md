@@ -13,10 +13,10 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Technical Challenge: Vue 3 Button Architecture with TypeScript](https://gervisbermudez.github.io/site/blog/web%20development/2026/09/07/improve-dont-replace-a-vue-3-button-architecture)
-- [From API to UI: Building a SpaceX Launch Tracker with NextJs and Tailwind](https://gervisbermudez.github.io/site/blog/web%20development/2025/03/24/next-js-and-tailwind-building-a-dynamic-space-x-launch-tracker)
-- [Solving the Hotel Reservation Problem using Vue js with Vite](https://gervisbermudez.github.io/site/blog/web%20development/2025/02/07/solving-the-hotel-reservation-problem-using-vue-js-with-vite)
-- [Building a Custom CMS - From Figma to CodeIgniter with Materialize](https://gervisbermudez.github.io/site/blog/web%20development/2024/12/07/building-a-custom-cms-from-figma-to-code-igniter-with-materialize)
+- [Technical Challenge: Vue 3 Button Architecture with TypeScript](https://gervisbermudez.dev/blog/2026/09/07/improve-dont-replace-a-vue-3-button-architecture/)
+- [From API to UI: Building a SpaceX Launch Tracker with NextJs and Tailwind](https://gervisbermudez.dev/blog/2025/03/24/next-js-and-tailwind-building-a-dynamic-space-x-launch-tracker/)
+- [Solving the Hotel Reservation Problem using Vue js with Vite](https://gervisbermudez.dev/blog/2025/02/07/solving-the-hotel-reservation-problem-using-vue-js-with-vite/)
+- [Building a Custom CMS - From Figma to CodeIgniter with Materialize](https://gervisbermudez.dev/blog/2024/12/07/building-a-custom-cms-from-figma-to-code-igniter-with-materialize/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -99,7 +99,7 @@ Want to know more about me? [Check out my portfolio.](https://gervisbermudez.git
 
 ## 📣 How about an Office quote before you go?
 
-> I'm not superstitious, but I am a little stitious.
+> I am Beyoncé, always.
 >
 > <p>- Michael Scott</p>
 
